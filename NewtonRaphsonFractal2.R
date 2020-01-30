@@ -1,6 +1,8 @@
 library(viridis)
 palette(viridis(256))
-# a function we will work with
+# a variety of functions we might work with
+# better pictures will be obtained by using other functions
+
 F1<-function(x){
 		return(c(x^2,2*x))
 }
