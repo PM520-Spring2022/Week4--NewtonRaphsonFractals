@@ -5,7 +5,7 @@ You will notice that this code is very slow, partly because of the
 large number of points being plotted, but mostly because it is 
 not written very efficiently. 
 See the repo Week3-FasterFractals for a walk-through of how to 
-speed it up.
+speed it up. (https://github.com/PM520-Spring-2020/Week3-FasterFractals)
 
 What this version has (that the faster one doesn't), is that it shows 
 how to use a different color palette (called "viridis", but there are 
